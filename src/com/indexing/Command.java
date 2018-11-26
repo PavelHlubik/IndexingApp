@@ -1,5 +1,5 @@
 package com.indexing;
-
+//
 public class Command {
     public int type;
     public String  [] args = null;

@@ -1,6 +1,5 @@
 package com.indexing;
 
-import com.indexing.Review;
 
 import java.io.IOException;
 

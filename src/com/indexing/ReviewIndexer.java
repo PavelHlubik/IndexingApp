@@ -37,7 +37,7 @@ public class ReviewIndexer {
     /**
      * Creates the actual index
      * @param limit How many documents to index
-     * @return FSDirectory object - created index
+     * @return FSDirectory object - created inde
      * @throws IOException
      */
     public FSDirectory createIndex(int limit) throws IOException {

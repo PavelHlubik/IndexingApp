@@ -28,7 +28,7 @@ public class CSVReader {
         String [] res;
         if(this.hasNext){
             res = this.currentLine.split(this.delim);
-//            System.out.println("Returning array of len: " + res.length);
+//            System.out.println("Returning array of len: " + res.length)
         } else {
             // This should not happen
             res  = new String[1];

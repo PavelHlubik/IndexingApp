@@ -1,7 +1,7 @@
 package com.indexing;
 
 /**
- * Represents one document (e.g. review)
+ * Represents one document (e.g. review
  */
 public class Review {
     public String id = null;

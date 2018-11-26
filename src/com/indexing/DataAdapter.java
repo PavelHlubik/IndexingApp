@@ -68,7 +68,7 @@ public class DataAdapter implements IDataAdapter {
     }
 
     public void close() throws IOException {
-        //this.brRev.close();
+        //this.brRev.close()
     }
 
     public void reset() throws IOException {

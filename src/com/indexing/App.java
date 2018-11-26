@@ -98,7 +98,7 @@ public class App {
         StandardAnalyzer analyzer = new StandardAnalyzer();
 
         String s1 = "pizza";
-        String s2 = "It was a really good pizza";
+        String s2 = "It was a reall good pizza";
         String s3 = "Best place in Pickering to go if your looking for some pizza. Service is quick and the pizza is reasonably priced. The pizza here is better tasting than it's alternatives Little Caesars and Pizza Pizza. The staff are a bit creepy but it doesn't matter because it only takes a minute to order a pizza.";
         Query q;
         if(cmd.args == null)
